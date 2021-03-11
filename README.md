@@ -7,7 +7,7 @@ and Currently wanted to work at this industry.
 
   <div align=center>
 [![Hits](https://img.shields.io/github/languages/count/beygee/survive)](https://img.shields.io/github/languages/count/beygee/survive)
-  
+  [![Hits](https://img.shields.io/badge/-java-brightgreen)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Leo-hw)](https://github.com/anuraghazra/github-readme-stats)
 
 
