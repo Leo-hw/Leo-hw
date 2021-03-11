@@ -4,9 +4,9 @@ I studied Java, R, Python
 Worked before as a tour conductor at South Ameria.
 and Currently wanted to work at this industry.
 
-
-  <div align=center>
 https://img.shields.io/github/languages/count/beygee/survive 
+  <div align=center>
+
   
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Leo-hw)](https://github.com/anuraghazra/github-readme-stats)
 
