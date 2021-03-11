@@ -1,7 +1,9 @@
-### Hi there 👋
+Hola!
+I studied Java, R, Python
 
+Worked before as a tour conductor at South Ameria.
+and Currently wanted to work at this industry.
 
-Here are some ideas to get you started:
 
   <div align=center>
 
