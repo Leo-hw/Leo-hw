@@ -6,7 +6,7 @@ and Currently wanted to work at this industry.
 
 
   <div align=center>
-[![Java](https://img.shields.io/amo/stars/dustman?color=red&label=Java)]
+https://img.shields.io/github/languages/count/beygee/survive 
   
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Leo-hw)](https://github.com/anuraghazra/github-readme-stats)
 
