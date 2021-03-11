@@ -6,7 +6,8 @@ and Currently wanted to work at this industry.
 
 
   <div align=center>
-https://img.shields.io/badge/-Java-orange
+
+https://img.shields.io/badge/-java-orange
   
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Leo-hw)](https://github.com/anuraghazra/github-readme-stats)
 
