@@ -1,8 +1,42 @@
 Hola! <br>
-I studied Java, R, Python
 
-Worked before as a tour conductor at South Ameria.
+Worked before as a tour conductor specialized to South Ameria.
 and Currently wanted to work at this industry.
+
+What I achieved?
+---
+2020.07 ~ 2020.12 - 클라우드 기반의 자바 응용 및 빅데이터 분석 개발자 양성과정 수료
+- 팀장으로 프로젝트를 주도 및 진행
+>>> 팀프로젝트 내역
+  1. 네책내책(MYT) 프로젝트(Java & spring)
+  - 전체 기획 및 총괄
+  - AJAX를 통한 문의 게시판 구현
+  - 파일 업로드 구현
+  2. 개인 맞춤 여행지 추천 프로젝트(python & django)
+  - 전체 기획 및 총괄
+  - 데이터 전처리 및 KNN 알고리즘 모델 구현
+
+2021.07 - 원티드 프리온보딩 데이터분석가 코스
+1. 국민연금 데이터 사용 유니콘 기업 찾기
+2. 자비스 앤 빌런스 데이터 사용, 수수료의 총합(회사의 수익)을 늘릴 수 있는 방법 제시
+3. 모두의 주차장 DB 데이터 활용, 앞으로의 결제 건수 예측 및 마케팅 전략 제안
+
+What I can use?
+---
+Java, Python, MariaDb, Mysql, spring framework, django framework, R, GIT, Slack
+
+
+What I studied?
+---
+~ 2015.02 Major Civil Engineering
+2015.12 ~ 2016.03 Negotiation of Construction in Spanish Course
+
+What I can do?
+---
+English, Spanish, Korean, Data analysis, Back-End
+
+
+
 
 <div align=center>
   
