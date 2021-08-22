@@ -21,19 +21,15 @@ What I achieved?
 2. 자비스 앤 빌런스 데이터 사용, 수수료의 총합(회사의 수익)을 늘릴 수 있는 방법 제시
 3. 모두의 주차장 DB 데이터 활용, 앞으로의 결제 건수 예측 및 마케팅 전략 제안
 
+
 What I can use?
 ---
-Java, Python, MariaDb, Mysql, spring framework, django framework, R, GIT, Slack
+> Java, Python, MariaDb, Mysql, spring framework, django framework, R, GIT, Slack
 
-
-What I studied?
----
-~ 2015.02 Major Civil Engineering
-2015.12 ~ 2016.03 Negotiation of Construction in Spanish Course
 
 What I can do?
 ---
-English, Spanish, Korean, Data analysis, Back-End
+> English, Spanish, Korean, Data analysis, Back-End
 
 
 
