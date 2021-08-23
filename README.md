@@ -41,6 +41,6 @@ What I can do?
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bonghwan-lee-bba315b1/)](https://www.linkedin.com/in/bonghwan-lee-bba315b1/)
-
-
+https://img.shields.io/static/v1?label=<#EA4335>&message=<MESSAGE>&color=<COLOR>
+#EA4335
   </div>
