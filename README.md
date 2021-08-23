@@ -26,7 +26,7 @@ What I can use?
 ---
 > Java, Python, MariaDb, Mysql, spring framework, django framework, R, GIT, Slack
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
-<img alt="Gmail" src ="https://img.shields.io/badge/Gmail-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
+
 
 What I can do?
 ---
@@ -41,9 +41,7 @@ What I can do?
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bonghwan-lee-bba315b1/)](https://www.linkedin.com/in/bonghwan-lee-bba315b1/)
+<img alt="Gmail" src ="https://img.shields.io/badge/Gmail-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
 
-![Gmail](https://img.shields.io/badge/%23EA4335-Gmail-red)
 
-  <img src=
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
   </div>
