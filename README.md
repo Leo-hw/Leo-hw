@@ -26,7 +26,7 @@ What I can use?
 ---
 > Java, Python, MariaDb, Mysql, spring framework, django framework, R, GIT, Slack
 
-
+<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=White"/>
 What I can do?
 ---
 > English, Spanish, Korean, Data analysis, Back-End
@@ -43,5 +43,6 @@ What I can do?
 
 ![Gmail](https://img.shields.io/badge/%23EA4335-Gmail-red)
 
+  <img src=
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
   </div>
