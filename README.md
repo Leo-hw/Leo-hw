@@ -26,9 +26,10 @@ What I can use?
 ---
 > Java, Python, MariaDb, Mysql, spring framework, django framework, R, GIT, Slack
 
-<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/> <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=Java&logoColor=white"/> <img alt="R" src ="https://img.shields.io/badge/R-276DC3.svg?&style=flat-square&logo=R&logoColor=white"/>
+<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/> <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=Java&logoColor=white"/> <img alt="R" src ="https://img.shields.io/badge/R-276DC3.svg?&style=flat-square&logo=R&logoColor=white"/> <img alt="Colab" src ="https://img.shields.io/badge/Google Colab-F9AB00.svg?&style=flat-square&logo=Colab&logoColor=white"/>
 
 
+#F9AB00
 What I can do?
 ---
 > English, Spanish, Korean, Data analysis, Back-End
