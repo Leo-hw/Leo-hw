@@ -1,9 +1,9 @@
-Hola! <br>
+🙋‍♂️ Hola! Buenos Dias! <br>
 
 Worked before as a tour conductor specialized to South Ameria.
 and Currently wanted to work at Data analysis.
 
-What I achieved?
+🏆 What I achieved?
 ---
 2020.07 ~ 2020.12 - 클라우드 기반의 자바 응용 및 빅데이터 분석 개발자 양성과정 수료
 - 팀장으로 프로젝트를 주도 및 진행
