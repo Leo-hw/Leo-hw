@@ -22,7 +22,7 @@ and Currently wanted to work at Data analysis.
 3. 모두의 주차장 DB 데이터 활용, 앞으로의 결제 건수 예측 및 마케팅 전략 제안
 
 
-What I can use?
+💻What I can use?
 ---
 > Java, Python, MariaDb, Mysql, spring framework, django framework, R, GIT, Slack
 
