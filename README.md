@@ -32,7 +32,6 @@ and Currently wanted to work at Data analysis.
 
 What I can do?
 ---
-> English, Spanish, Korean, Data analysis, Back-End
 
 
 
