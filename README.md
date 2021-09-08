@@ -16,6 +16,7 @@ and Currently wanted to work at Data analysis.
 >>  2. 개인 맞춤 여행지 추천 프로젝트(python & django)
 >>>  - 전체 기획 및 총괄
 >>>  - 데이터 전처리 및 KNN 알고리즘 모델 구현
+>>>  
 
 2021.07 - 원티드 프리온보딩 데이터분석가 코스
 1. 국민연금 데이터 사용 유니콘 기업 찾기
