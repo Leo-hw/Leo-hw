@@ -1,9 +1,9 @@
-🙋‍♂️ Hola! Buenos Dias! <br>
+## 🙋‍♂️ Hola! Buenos Dias! <br>
 
 Worked before as a tour conductor specialized to South Ameria.
 and Currently wanted to work at Data analysis.
 
-🏆 What I achieved?
+## 🏆 What I achieved?
 ---
 
 ### 2021.09 - 현직 빅데이터 분석가와 함께하는 "실전 분석 역량" 기르기 - 임팩트 캠퍼스
@@ -31,7 +31,7 @@ and Currently wanted to work at Data analysis.
 
 
 
-💻What I can use?
+## 💻What I can use?
 ---
 > Java, Python, MariaDb, Mysql, spring framework, django framework, R, GIT, Slack
 
@@ -39,7 +39,7 @@ and Currently wanted to work at Data analysis.
 <img alt="Jupyter" src ="https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white"/> <img alt="Google Colab" src ="https://img.shields.io/badge/Google Colab-F9AB00.svg?&style=flat-square&logo=Google Colab&logoColor=white"/>
 
 
-What I can do?
+## What I can do?
 ---
 
 
