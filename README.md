@@ -4,7 +4,7 @@ Worked before as a tour conductor specialized to South Ameria.
 and Currently wanted to work at Data analysis.
 
 ## 🏆 What I achieved?
----
+
 
 ### 2021.09 - 현직 빅데이터 분석가와 함께하는 "실전 분석 역량" 기르기 - 임팩트 캠퍼스
 - 트렌드 분석 진행(네이버 데이터랩/쇼핑 인사이트 및 온라인 검색 및 행동데이터 활용)
@@ -32,7 +32,7 @@ and Currently wanted to work at Data analysis.
 
 
 ## 💻What I can use?
----
+
 > Java, Python, MariaDb, Mysql, spring framework, django framework, R, GIT, Slack
 
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/> <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=Java&logoColor=white"/> <img alt="R" src ="https://img.shields.io/badge/R-276DC3.svg?&style=flat-square&logo=R&logoColor=white"/> <img alt="MariaDB" src ="https://img.shields.io/badge/MariaDB-003545.svg?&style=flat-square&logo=MariaDB&logoColor=white"/> <img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=flat-square&logo=Spring&logoColor=white"/> <img alt="Django" src ="https://img.shields.io/badge/Django-092E20.svg?&style=flat-square&logo=Django&logoColor=white"/> <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=MySQL&logoColor=white"/> <img alt="Git" src ="https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=Git&logoColor=white"/> <img alt="Slack" src ="https://img.shields.io/badge/Slack-4A154B.svg?&style=flat-square&logo=Slack&logoColor=white"/> 
@@ -40,7 +40,7 @@ and Currently wanted to work at Data analysis.
 
 
 ## What I can do?
----
+
 
 
 
