@@ -6,6 +6,7 @@ and Currently wanted to work at Data analysis.
 ## 🏆 What I achieved?
 ### 2021.12 ~ 미리디
 - 데이터 분석가
+  
 데이터 추출을 통해 데이터 시각화 및 데이터 분석
 
 ### 2021.09 - 10 현직 빅데이터 분석가와 함께하는 "실전 분석 역량" 기르기 - 임팩트 캠퍼스
