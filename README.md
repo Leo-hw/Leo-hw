@@ -34,23 +34,10 @@ and Currently wanted to work at Data analysis.
 
 > Java, Python, MariaDb, Mysql, spring framework, django framework, R, GIT, Slack
 
-<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/> 
-<img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=Java&logoColor=white"/> <img alt="R" src ="https://img.shields.io/badge/R-276DC3.svg?&style=flat-square&logo=R&logoColor=white"/> <img alt="MariaDB" src ="https://img.shields.io/badge/MariaDB-003545.svg?&style=flat-square&logo=MariaDB&logoColor=white"/> <img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=flat-square&logo=Spring&logoColor=white"/> <img alt="Django" src ="https://img.shields.io/badge/Django-092E20.svg?&style=flat-square&logo=Django&logoColor=white"/> 
-<img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=MySQL&logoColor=white"/> 
-<img alt="Git" src ="https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=Git&logoColor=white"/>
-<img alt="Slack" src ="https://img.shields.io/badge/Slack-4A154B.svg?&style=flat-square&logo=Slack&logoColor=white"/> 
-<img alt="Jupyter" src ="https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white"/> 
-<img alt="Google Colab" src ="https://img.shields.io/badge/Google Colab-F9AB00.svg?&style=flat-square&logo=Google Colab&logoColor=white"/>
-![React](https://img.shields.io/badge/react-ffffff?style=for-the-badge&logo=react&logoColor=green)
-![React](https://img.shields.io/badge/react-ffffff?style=for-the-badge&logo=react)
-![React](https://img.shields.io/badge/react-444444?style=for-the-badge&logo=react)
-![React](https://img.shields.io/badge/react?style=for-the-badge&logo=react)
+<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/> <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=Java&logoColor=white"/> <img alt="R" src ="https://img.shields.io/badge/R-276DC3.svg?&style=flat-square&logo=R&logoColor=white"/> <img alt="MariaDB" src ="https://img.shields.io/badge/MariaDB-003545.svg?&style=flat-square&logo=MariaDB&logoColor=white"/> <img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=flat-square&logo=Spring&logoColor=white"/> <img alt="Django" src ="https://img.shields.io/badge/Django-092E20.svg?&style=flat-square&logo=Django&logoColor=white"/> <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=MySQL&logoColor=white"/> <img alt="Git" src ="https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=Git&logoColor=white"/><img alt="Slack" src ="https://img.shields.io/badge/Slack-4A154B.svg?&style=flat-square&logo=Slack&logoColor=white"/> <img alt="Jupyter" src ="https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white"/> <img alt="Google Colab" src ="https://img.shields.io/badge/Google Colab-F9AB00.svg?&style=flat-square&logo=Google Colab&logoColor=white"/>
+ <img alt="Google BigQuery" src ="https://img.shields.io/badge/Google BigQuery-669DF6.svg?&style=flat-square&logo=Google BigQuery&logoColor=white"/>
 
 ## What I can do?
-
-
-
-
 <div align=center>
   
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Leo-hw)](https://github.com/anuraghazra/github-readme-stats)
