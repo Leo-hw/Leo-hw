@@ -4,10 +4,12 @@ Worked before as a tour conductor specialized to South Ameria.
 and Currently wanted to work at Data analysis.
 
 ## 🏆 What I achieved?
-### 2021.12 ~. 미리디
-- 데이터 분석가
-  
-데이터 추출을 통해 데이터 시각화 및 데이터 분석
+### 2021.12 ~2025.10 미리디
+데이터 분석가
+- A/B 테스트 설계·해석  
+- 퍼널·코호트·세그먼트 분석 기반 제품 성장 전략 제안
+- OKR/KPI 대시보드(Tableau/Databricks) 구축 및 자동화
+- GA4/Amplitude/Braze Event Taxonomy 정비 및 추적 인프라 고도화
 
 ### 2021.09 - 10. 현직 빅데이터 분석가와 함께하는 "실전 분석 역량" 기르기 - 임팩트 캠퍼스
 - 트렌드 분석 진행(네이버 데이터랩/쇼핑 인사이트 및 온라인 검색 및 행동데이터 활용)
